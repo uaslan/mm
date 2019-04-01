@@ -1,0 +1,613 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,latin-ext);
+html{
+ 	width:100%;
+	height:100%;
+}
+body{
+	font-family: 'Open Sans',Helvetica,sans-serif;
+ 	font-size:13px;
+	width:100%;
+	height:100%;
+	margin:0px;
+}
+a{
+	text-decoration: none;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+}
+img{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.GenelDisDiv{
+	float:left;
+ 	min-height: 100%;
+	height: auto;
+    width:100%;
+}
+.GenelAlan{
+    width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.n1{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.MenuAlan{
+	float:left;
+	width:100%;
+	height:61px;
+	background:url(../img/ustmenubg.jpg) top center;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+ 	font-size:20px;
+	color:#FFF;
+	font-weight:400;
+	text-align:center;
+	line-height:55px;
+}
+.MenuAlan a{
+	color:#FFF;
+	font-weight:400;
+	margin-right:35px;
+}
+.SiparisLink{
+	color:#FFF;
+	font-weight:600;
+	border-bottom:2px;
+}
+
+
+.KampanyaAlan{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.KampanyaAlan img{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.KampanyaSay{
+	float:left;
+	width:100%;
+	height:100%;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+ 	font-size:130px;
+	color:#fff;
+	font-weight:700;
+	text-align:center;
+	margin-top:-200px;
+}
+.UrunAlan{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.UrunAlanBaslik{
+	float:left;
+	width:98%;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+ 	font-size:24px;
+	color:#2c3e50;
+	font-weight:300;
+	border-bottom:1px solid #c4c4c4;
+	height:38px;
+	margin-top:15px;
+	margin-left:8px;
+}
+
+.u1{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.u2{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.u3{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.u4{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.u5{
+	float:left;
+	width:100%;
+	height:auto;
+}
+.u6{
+	float:left;
+	width:100%;
+	height:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ne-demisler{ float:left; width:100%; -webkit-box-shadow: inset 0px 0px 58px 0px rgba(242,240,233,1);
+-moz-box-shadow: inset 0px 0px 58px 0px rgba(242,240,233,1);
+box-shadow: inset 0px 0px 58px 0px rgba(242,240,233,1);}
+.faceYorum{ float:left; width:98%;}
+.fiyatNeDemis{ float:right; width:100%; margin-left:5px; margin-top:-55px;}
+.yorumArea{ width:100%;height:777px;overflow:hidden;font-family:'Arial'; }
+.yorumArea .facebook{margin:30px 0 0 30px;float:left;}
+.yorumArea .topCom{margin:28px 0 0 20px;float:left;}
+.yorumArea .topCom p{font-size:13px;color:#474747;line-height:20px;}
+.yorumArea .sayiYorum{width:100%;padding:10px 10px;overflow:hidden;border-bottom:1px solid #f2f2f2;font-weight:bold;}
+.yorumArea .sayiYorum .sayi{color:#333333;}
+.yorumArea .sayiYorum .yorumAt{color:#3b5998;}
+.yorumArea .yorumlar{width:100%;height:660px;background:#fcfcfe;margin:10px 30px;border:1px solid #f2f2f2;overflow:auto; overflow-x: hidden !important;}
+ul.yorumListesi li{padding:15px;border-bottom:1px solid #f2f2f2; list-style:none; margin-left:-30px;}
+ul.yorumListesi .proImage{float:left;margin-right:8px;height:90px;}
+ul.yorumListesi .yorumDetay{font-size:12px;}
+ul.yorumListesi .yorumDetay a{color:#3b5998;}
+ul.yorumListesi .yorumDetay .proAdi{}
+ul.yorumListesi .yorumDetay .proAdi .proAd{font-weight:bold;}
+ul.yorumListesi .yorumDetay .proAdi .proIl{color:#999999;}
+ul.yorumListesi .yorumDetay .proYorum{margin-top:3px;}
+ul.yorumListesi .yorumDetay .proYorum p{color:#1a1a1a;font-size:12px;margin-bottom:5px;}
+ul.yorumListesi .yorumDetay .proBut a{padding-right:5px;}
+ul.yorumListesi .yorumDetay .proBut .tarih{color:#999999;}
+ul.yorumListesi .yorumDetay .proBut .begenenler{background:url(../img/face-like.png) 0 center no-repeat;padding:5px 5px 3px 16px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.DetaySagAlan{
+	float:left;
+	width:100%;
+	height:auto;
+	margin-top:10px;
+}
+.DetaySagAlanBaslik{
+	float:left;
+	width:100%;
+	height:27px;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:700;
+	color:#22313f;
+}
+
+
+.UrunDetayAciklama{
+	float:left;
+	width:100%;
+	height:auto;
+	line-height:24px;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:14px;
+	font-weight:400;
+	color:#22313f;
+	margin-top:5px;
+}
+.OrtalamaAciklama{
+	float:left;
+	width:100%;
+	height:auto;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:700;
+	color:#22313f;
+	margin-top:80px;
+}
+.OrtalamaAciklama img{
+	float:left;
+	width:382px;
+	height:auto;
+	margin-top:15px;
+}
+
+
+.FormSagAlan{
+	float:right;
+	width:650px;
+	margin-right:-80px;
+	margin-top:-20px;
+	
+}
+.NotAlan{
+	float:left;
+	width:100%;
+	height:auto;
+	margin-top:45px;
+}
+.NotAciklama{
+	float:left;
+	width:100%;
+	height:auto;
+	line-height:35px;
+	margin-top:15px;
+	list-style:disc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:#3f3c37;
+}
+.NotAciklama li{list-style: disc; color:#d91f1f; margin-left:-20px;}
+.NotAciklama li span{color:#3f3c37;}
+
+.FormAciklama{
+	float:left;
+	width:100%;
+	height:auto;
+	line-height:30px;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#c10303;
+}
+
+
+
+.FormAlan{
+	float:left;
+	width:94%;
+	height:auto;
+	margin-top:20px;
+	padding-left:10px;
+}
+.FormKutu{
+	float:left;
+	width:100%;
+	height:auto;
+	margin-bottom:15px;
+}
+.FormBaslik{
+	float:left;
+	width:100%;
+	text-align:left;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:20px;
+	font-weight:400;
+	color:#1a1a1a;
+}
+.Forminput{
+	float:left;
+	width:100%;
+	height:auto;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:24px;
+	font-weight:400;
+	color:#1a1a1a;
+}
+.Forminput input[type="text"]{
+	float:left;
+	width:100%;
+	height:38px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #cfc8bc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#363636;
+}
+.Forminput select{
+	float:left;
+	width:100%;
+	height:38px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #cfc8bc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#363636;
+}
+.Forminput textarea{
+	float:left;
+	width:100%;
+	height:100px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #cfc8bc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#363636;
+}
+
+.Forminput > .select180{
+	float:left;
+	width:100%;
+	height:38px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #cfc8bc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#363636;
+}
+.Forminput > .select1802{
+	float:left;
+	width:100%;
+	height:38px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #cfc8bc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#363636;
+	margin-top:10px;
+}
+.Forminput > .select5{
+	float:left;
+	width:100%;
+	height:38px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #cfc8bc;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:18px;
+	font-weight:400;
+	color:#363636;
+}
+.FormSiparisVerButon{
+	float:right;
+	width:250px;
+	height:63px;
+	background:url(../img/siparisbuton.jpg) no-repeat;
+	border:none;
+	cursor:pointer;
+}
+
+
+.SiparisGenelAlan{
+	float:left;
+	width:100%;
+	height:auto;
+}
+
+.title2{float:left; width:100%; margin-top:30px;}
+.title2 h1{
+	float:left;
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-size:32px;
+	font-weight:300;
+	color:#c92381;
+	height:55px
+}
+.title2 h1 b{
+	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-weight:700;
+}
+
+.ne-demisler{
+	float:left;
+	margin-top:-25px;
+	margin-left:-5px;
+}
+
+
+
+
+
+
+@media screen and (max-width:1525px){
+.KampanyaSay{
+ 	font-size:142px;
+	margin-top:-208px;
+}
+}
+@media screen and (max-width:1490px){
+.KampanyaSay{
+ 	font-size:130px;
+	margin-top:-190px;
+}
+}
+@media screen and (max-width:1300px){
+.KampanyaSay{
+ 	font-size:120px;
+	margin-top:-170px;
+}
+}
+@media screen and (max-width:1240px){
+.KampanyaSay{
+ 	font-size:120px;
+	margin-top:-170px;
+}
+}
+@media screen and (max-width:992px){
+.title2 h1{
+	font-size:26px;
+	height:45px;
+}
+.MenuAlan{
+ 	font-size:18px;
+}
+.MenuAlan a{
+	margin-right:35px;
+}
+.KampanyaSay{
+ 	font-size:56px;
+	margin-top:-90px;
+}
+}
+@media screen and (max-width:892px){
+.title2 h1{
+	font-size:26px;
+	height:45px;
+}
+.MenuAlan{
+ 	font-size:18px;
+}
+.MenuAlan a{
+	margin-right:35px;
+}
+.KampanyaSay{
+ 	font-size:56px;
+	margin-top:-90px;
+}
+}
+@media screen and (max-width:772px){
+.title2 h1{
+	font-size:22px;
+}
+.yorumArea .yorumlar{ margin-left:25px; }
+.MenuAlan{
+ 	font-size:16px;
+}
+.MenuAlan a{
+	margin-right:22px;
+}
+.KampanyaSay{
+ 	font-size:54px;
+	margin-top:-88px;
+}
+.UrunAlanBaslik{
+	width:90%;
+}
+}
+@media screen and (max-width:590px){
+.title2 h1{
+	font-size:20px;
+}
+.MenuAlan{
+ 	font-size:14px;
+}
+.MenuAlan a{
+	margin-right:18px;
+}
+.KampanyaSay{
+ 	font-size:50px;
+	margin-top:-66px;
+}
+}
+@media screen and (max-width:480px){
+.title2 h1{
+	font-size:18px;
+}
+.yorumArea .yorumlar{ margin-left:20px; }
+.MenuAlan{
+ 	font-size:13px;
+}
+.MenuAlan a{
+	margin-right:10px;
+}
+.KampanyaSay{
+ 	font-size:38px;
+	margin-top:-54px;
+}
+}
+@media screen and (max-width:320px){
+.title2 h1{
+	font-size:16px;
+}
+.yorumArea .yorumlar{ margin-left:15px; }
+.MenuAlan{
+ 	font-size:10px;
+}
+.MenuAlan a{
+	margin-right:10px;
+}
+
+.KampanyaSay{
+ 	font-size:26px;
+	margin-top:-36px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Alert */
+.alert-box {
+		color:#555;
+		border-radius:5px;
+		font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+		padding:10px 36px;
+		margin-top:10px;
+		margin-bottom:10px;
+		float:left;
+		width:auto;
+	}
+	.alert-box span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.error {
+		background:#ffecec url('../img/error.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.success {
+		background:#e9ffd9 url('../img/success.png') no-repeat 10px 50%;
+		border:1px solid #a6ca8a;
+	}
+	.warning {
+		background:#fff8c4 url('../img/warning.png') no-repeat 10px 50%;
+		border:1px solid #f2c779;
+	}
+	.notice {
+		background:#e3f7fc url('../img/notice.png') no-repeat 10px 50%;
+		border:1px solid #8ed9f6;
+	}
